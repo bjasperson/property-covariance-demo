@@ -1,6 +1,7 @@
 # property-covariance-demo
 Class demonstration exploring covariance between indicator properties and grain boundary energy.
 
+This repo is a work in progress!
 
 ## Setup
 The easiest way to run this demonstration is to use Google Colab.
