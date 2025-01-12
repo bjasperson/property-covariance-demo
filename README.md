@@ -1,5 +1,5 @@
 # property-covariance-demo
-Class demonstration exploring covariance between indicator properties and grain boundary energy
+Class demonstration exploring covariance between indicator properties and grain boundary energy.
 
 
 ## Setup
